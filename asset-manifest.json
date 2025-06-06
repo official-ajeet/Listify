@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/official-ajeet/Listify/static/css/main.2aa96ae7.css",
-    "main.js": "/official-ajeet/Listify/static/js/main.9206a008.js",
-    "static/js/488.f323fae0.chunk.js": "/official-ajeet/Listify/static/js/488.f323fae0.chunk.js",
-    "index.html": "/official-ajeet/Listify/index.html",
-    "main.2aa96ae7.css.map": "/official-ajeet/Listify/static/css/main.2aa96ae7.css.map",
-    "main.9206a008.js.map": "/official-ajeet/Listify/static/js/main.9206a008.js.map",
-    "488.f323fae0.chunk.js.map": "/official-ajeet/Listify/static/js/488.f323fae0.chunk.js.map"
+    "main.css": "/Listify/static/css/main.2aa96ae7.css",
+    "main.js": "/Listify/static/js/main.5fec14cf.js",
+    "static/js/488.f323fae0.chunk.js": "/Listify/static/js/488.f323fae0.chunk.js",
+    "index.html": "/Listify/index.html",
+    "main.2aa96ae7.css.map": "/Listify/static/css/main.2aa96ae7.css.map",
+    "main.5fec14cf.js.map": "/Listify/static/js/main.5fec14cf.js.map",
+    "488.f323fae0.chunk.js.map": "/Listify/static/js/488.f323fae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aa96ae7.css",
-    "static/js/main.9206a008.js"
+    "static/js/main.5fec14cf.js"
   ]
 }
